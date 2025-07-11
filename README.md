@@ -1,0 +1,1 @@
+![Link Checker](https://github.com/Adarshtiwari2124/broken-link-checker/actions/workflows/check-links.yml/badge.svg)
